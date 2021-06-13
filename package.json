@@ -1,0 +1,14 @@
+{
+  "name": "bitcoin_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Prashant Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
